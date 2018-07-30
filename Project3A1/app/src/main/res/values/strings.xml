@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project3A1</string>
+
+    <string-array name="Places">
+        <item>Museum of Science and Industry</item>
+        <item>Wrigley Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Millennium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Adler Planetarium</item>
+
+    </string-array>
+    <string-array name="PlacesURL">
+        <item>https://www.msichicago.org/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/information/index.jsp</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>http://www.adlerplanetarium.org/</item>
+
+    </string-array>
+</resources>
